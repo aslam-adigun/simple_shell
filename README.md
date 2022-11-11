@@ -1,4 +1,4 @@
-## C - bit manipulation
+## 0x16. C - Simple Shell
 
 | Project name | Description |
 | ------------ | ----------- |
@@ -7,3 +7,8 @@
 | `File 2 - 2-append_text_to_file.c` | A function that appends text at the end of a file. |
 | `File 3 - 3-cp.c` | A program that copies the content of a file to another file. |
 | `File 4 - 100-elf_header.c` | A program that displays the information contained in the `ELF header at the start of an ELF file`. |
+
+
+## Authors
+Aslam Dhikrullahi [`aslam-adigun`](https://github.com/aslam-adigun)
+Tochukwu Onah [`tchytech`](https://github.com/tchytech)
